@@ -12,6 +12,7 @@
 9. rebornelectrical
 10. saturdayseagle - command line versions of clojure libs
 11. sillyflannel - clojure templates
+12. [wildmountain] (https://github.com/wildmountain) - bash scripts
 
 ## Repositories
 
@@ -61,3 +62,6 @@
 ## sillyflannel
 1. easterntombstone
 2. newdonut
+
+## [wildmountain](https://github.com/wildmountain)	
+1. [ivoryomega](https://github.com/wildmountain/ivoryomega) - installs the rawflag - dancingleather rpm repo
