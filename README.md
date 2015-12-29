@@ -4,6 +4,7 @@
 2. deadgalaxy - java projects
 3. dirtyfrostbite - for forking
 4. easterntombstone - clojure projects
+4. [oldgamma] (https://github.com/oldgamma) - package rpm for fedora
 5. purplesmoke - package deb for ubuntu
 6. randomautumn - personal
 7. randomsmoke - verification methods for easterntombstone clojure projects
@@ -32,6 +33,9 @@
 1. nocturnalhelium - generic testing methods
 2. forsakenknife - ssh key generation and configuration
 3. loneviper -
+
+## oldgamma
+1. [sunhollow](https://github.com/oldgamma/sunhollow) - package gcc for rpm for cloud9
 
 ## purplesmoke
 1. timelyhelium - package leiningen for ubuntu
