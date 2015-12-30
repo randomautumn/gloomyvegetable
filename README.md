@@ -71,3 +71,4 @@
 ## [wildmountain](https://github.com/wildmountain)	
 1. [ivoryomega](https://github.com/wildmountain/ivoryomega) - installs the rawflag - dancingleather rpm repo
 1. [bittermoon](https://github.com/wildmountain/bittermoon) - installs the rawflag - dancingleather rpm repo
+2. [pureemerald](https://github.com/wildmountain/pureemerald) - personal user setup
