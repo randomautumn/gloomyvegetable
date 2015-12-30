@@ -37,6 +37,7 @@
 
 ## oldgamma
 1. [sunhollow](https://github.com/oldgamma/sunhollow) - package gcc for rpm for cloud9
+2. [reborncloud](https://github.com/oldgamma/reborncloud) - package a repo file
 
 ## purplesmoke
 1. timelyhelium - package leiningen for ubuntu
