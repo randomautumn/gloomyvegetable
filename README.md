@@ -5,6 +5,7 @@
 3. dirtyfrostbite - for forking
 4. easterntombstone - clojure projects
 4. [oldgamma] (https://github.com/oldgamma) - package rpm for fedora
+4. [persistentdog] (https://github.com/persistentdog) - systemd
 5. purplesmoke - package deb for ubuntu
 6. randomautumn - personal
 7. randomsmoke - verification methods for easterntombstone clojure projects
@@ -39,6 +40,9 @@
 1. [sunhollow](https://github.com/oldgamma/sunhollow) - package gcc for rpm for cloud9
 2. [reborncloud](https://github.com/oldgamma/reborncloud) - package a repo file
 
+## persistentdog
+1. [meangingfulmoon](https://github.com/persistentdog/meaningfulmoon) - cloud9 systemd
+
 ## purplesmoke
 1. timelyhelium - package leiningen for ubuntu
 
@@ -66,3 +70,4 @@
 
 ## [wildmountain](https://github.com/wildmountain)	
 1. [ivoryomega](https://github.com/wildmountain/ivoryomega) - installs the rawflag - dancingleather rpm repo
+1. [bittermoon](https://github.com/wildmountain/bittermoon) - installs the rawflag - dancingleather rpm repo
